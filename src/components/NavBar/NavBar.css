@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.cart-widget{
+margin-left: 10px;
+}
+.cart-imagen{
+width: 50px;
+    height: 50px;
+}
+.hero-body{
+background-color: black;
+}
+
+.container{
+    display: inline;
+}
+
+.contenedor-del-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-button {
+    background-color: rgb(53, 60, 64);
+    color: #fff;
+    padding: 60px 90px; 
+    margin-right: 20px; /*Margen entre botones*/
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+}

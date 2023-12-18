@@ -1,0 +1,9 @@
+.cart-widget {
+    display: flex; /* Para que el carrito esté en línea */
+    margin-right: 50px;
+}
+
+.cart-imagen {
+    width: 100px;
+    height: 100px;
+}
