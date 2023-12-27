@@ -25,6 +25,15 @@ const products = [
         img: 'https://cbafederal.net/wp-content/uploads/2021/02/i-12-a.png',
         stock: 25,
         description:'Descripcion de Iphone 12'
+    },
+    {
+        id: '4',
+        name: 'Iphone 12',
+        price: 1000,
+        category: 'celular',
+        img: 'https://cbafederal.net/wp-content/uploads/2021/02/i-12-a.png',
+        stock: 25,
+        description:'Descripcion de Iphone 12'
     }
 ]
 

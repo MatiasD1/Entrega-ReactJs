@@ -35,4 +35,4 @@ const NavBar = () => {//Utilizo en la etiqueta nav una clase de bulma
     )
 }
 
-export default NavBar//le saqué el ; y anduvo wtf CONSULTAR
+export default NavBar;
